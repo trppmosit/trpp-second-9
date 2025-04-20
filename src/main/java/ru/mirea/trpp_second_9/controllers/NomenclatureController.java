@@ -11,7 +11,7 @@ import java.util.List;
 import java.util.Optional;
 
 /** Контроллер для работы с номенклатурами. */
-@Controller("/employee")
+@Controller("/nomenclature")
 public class NomenclatureController {
 
     /** Список номенклатур. */
